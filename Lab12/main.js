@@ -29,12 +29,6 @@ $('#shakey').click(function(){
       })
 
       circle.addTo(mymap);
-
-    });
-
-
-
-
   });
 
 });
